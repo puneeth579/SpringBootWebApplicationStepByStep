@@ -12,6 +12,11 @@ public class TBSMB {
 		return how;
 		
 	}
+	
+	
+	public int getW(){
+		return w;
+	}
 	  
 }
      
